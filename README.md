@@ -6,4 +6,5 @@
 <b>Three sorting techniques :- </b> 1.bubble sort 
                                     2. selection sort
                                     3.insertion sort 
+
 <b> These two techniques are explaining in that module with proper algorithm , procedure and working method. </b>
