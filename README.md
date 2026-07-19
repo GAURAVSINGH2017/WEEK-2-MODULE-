@@ -7,4 +7,4 @@
                                     2. selection sort
                                     3.insertion sort 
 
-<b> These two techniques are explaining in that module with proper algorithm , procedure and working method. </b>
+<b> These five techniques are explaining in that module with proper algorithm , procedure and working method. </b>
